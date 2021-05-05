@@ -465,6 +465,7 @@ echo -e "\e[1;92m"
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■⊣"
 echo ""
 echo -e "\e[1;91m           [\e[1;96m*\e[1;91m]YouTube =  \e[1;96mTermux Professor"
+echo -e "\e[1;91m           [\e[1;96m*\e[1;91m]Website =  \e[1;96mwww.getredeemcode.com"
 echo ""
 
 printf "\n"                                                                   |
