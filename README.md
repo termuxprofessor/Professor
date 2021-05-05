@@ -1,6 +1,6 @@
 # Professor
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-8J6nXMm4Fn4/X1nN5SrLvkI/AAAAAAAAAQ0/J8TNfruwGEgiAfOKxIiRD_q3dKOGUl-XQCLcBGAsYHQ/s530/Screenshot_20200910_122015.png" width="470" height="250">
+  <img src="https://1.bp.blogspot.com/-VOF740e1pzs/YJJZV54I6rI/AAAAAAAAUDE/j_GlPxBeoBECXPSdO3UAYSLcaaGoLc-CACLcBGAsYHQ/s16000/Screenshot_20210505_135832.jpg" width="470" height="250">
 </p>
 All in One Information Gathering tool for Termux.
 
