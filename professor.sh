@@ -365,7 +365,7 @@ detected=$(grep -o 'Success' checkcms.log)
 if [[ $detected == *'Success'* ]]; then
 cms=$(grep -o '"name":.*,' checkcms.log | cut -d "," -f1 | cut -d ":" -f2 | tr -d '\"')
 printf "\e[1;92m[*] CMS Found:\e[0m\e[1;77m %s\e[0m\n" $cms
-fi 
+fi
 
 many_requests=$(grep -o 'Too Many Requests' checkcms.log)
 if [[ $failed = *'Too Many Requests'* ]]; then
